@@ -1,0 +1,5 @@
+﻿  Driver.cpp
+C:\Users\austi\source\repos\CS440_PProgramMetrics\CS440_PProgramMetrics\CS440_PProgramMetrics\CS440_PProgramMetrics\MetricFuncts.h(18,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\austi\source\repos\CS440_PProgramMetrics\CS440_PProgramMetrics\CS440_PProgramMetrics\CS440_PProgramMetrics\MetricFuncts.h(28,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\austi\source\repos\CS440_PProgramMetrics\CS440_PProgramMetrics\CS440_PProgramMetrics\CS440_PProgramMetrics\MetricFuncts.h(29,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CS440_PProgramMetrics.vcxproj -> C:\Users\austi\source\repos\CS440_PProgramMetrics\CS440_PProgramMetrics\CS440_PProgramMetrics\x64\Debug\CS440_PProgramMetrics.exe
